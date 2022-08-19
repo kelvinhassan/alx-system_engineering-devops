@@ -13,7 +13,13 @@ SIGTERM_handler()
   rm /var/run/myscript.pid
   exit 0
 }
-SIGQUIT_handler
+
+SIGINT_handler()
+{
+	echo "Y I no love me?!"
+}
+
+SIGQUIT_handler()
 {
 	rm /var/run/myscript.pid
 	exit 0
