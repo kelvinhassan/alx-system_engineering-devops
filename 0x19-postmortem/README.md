@@ -27,8 +27,9 @@
 <li>Programmatically enforce stage rollouts of all configuration changes</li>
 </ul>
 <p>Kist is committed to continually and quickly serve its customers with ease and to use the available technologies to make services available and accessible to all for faster and personalized services We appreciate your patience and again apologize for the impact to you, your users, and your organization. We thank you for your business and continued support.</p>
-'''sh
+
+'''
 Sincerely
 
 Kelvin Kist IT Response
-'''sh
+'''
